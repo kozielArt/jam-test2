@@ -51,7 +51,7 @@ export default class IndexPage extends React.Component {
                 Awesome security, easy wow 
               </h1>
               <h3>
-                Mr Gravity recommends 
+                Mr Gravity recommends a lot
                 <br />
                 Very much.
               </h3>
