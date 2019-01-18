@@ -48,12 +48,12 @@ export default class IndexPage extends React.Component {
               style={{ marginLeft: "100px", marginTop: "50px" }}
             >
               <h1 className="has-text-weight-bold is-size-2">
-                Securing your digital transformation
+                Awesome security, easy wow 
               </h1>
               <h3>
-                A comprehensive Internet security solution for business.
+                Mr Gravity recommends a lot
                 <br />
-                Stay safe no matter how, where and when you connect.
+                Very much.
               </h3>
             </div>
           </div>
