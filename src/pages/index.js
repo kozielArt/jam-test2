@@ -48,12 +48,12 @@ export default class IndexPage extends React.Component {
               style={{ marginLeft: "100px", marginTop: "50px" }}
             >
               <h1 className="has-text-weight-bold is-size-2">
-                Awesome security, easy wow 
+                FACEBOOK IS BAD
               </h1>
               <h3>
-                Mr Gravity recommends a lot
+                Remove it
                 <br />
-                Very much.
+                Now.
               </h3>
             </div>
           </div>
