@@ -35,6 +35,15 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: 'gatsby-source-storyblok',
+            options: {
+              accessToken: `bv3Utwh3nhcAYB5moA9vTwtt`,
+              homeSlug: 'home',
+              version: 'draft',
+              timeout: 5000 // only needed if you want to increase the request timeout - default is 5000
+            }
+          },
+          {
             resolve: 'gatsby-remark-relative-images',
             options: {
               name: 'uploads',
